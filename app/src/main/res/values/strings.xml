@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCallPhone</string>
+    <string name="call_num">请输入电话号码</string>
+    <string name="callButton">呼叫</string>
+</resources>
